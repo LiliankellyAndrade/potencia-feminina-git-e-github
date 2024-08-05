@@ -1,3 +1,3 @@
 # potencia-feminina-git-e-github
 
-## Repositorio do curso potencia feminina/womarkrscode
+## Repositorio do curso potencia feminina/womakerscode
